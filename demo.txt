@@ -1,3 +1,7 @@
 folder added
 how
 you
+<<<<<<< HEAD
+=======
+are
+>>>>>>> parent of 23a3f92... new file added and demo file updated
