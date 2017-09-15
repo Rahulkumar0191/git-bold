@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 hfksdf
 gdfsg
 hjsdkas
-=======
->>>>>>> parent of cf4c314... first commit
 hi
 hello
 test file
